@@ -1,0 +1,1 @@
+# write any program to illustrate the del( )  method or destructor
